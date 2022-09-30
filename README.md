@@ -27,7 +27,7 @@ conda create --name thin-plate-spline python=3.9
 
 - Create a folder named ```checkpoints```
 
-- Download prenaided models (pick one link)
+- Download pretrained models (pick one link)
 -- [Tsinghua Cloud](https://cloud.tsinghua.edu.cn/d/30ab8765da364fefa101/)
 -- [Google Drive](https://drive.google.com/drive/folders/1pNDo1ODQIb5HVObRtCmubqJikmR7VVLT?usp=sharing)
 
